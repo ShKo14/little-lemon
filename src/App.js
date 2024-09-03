@@ -1,10 +1,20 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
 import './App.css';
+import Header from './Header';
+import Nav from './Nav';
+import Main from './Main';
+import Footer from './Footer';
+import {Fragment} from "react";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Homepage</h1>
-    </div>
+    <>
+      <Header />
+      <Nav />
+      <Main />
+      <Footer />
+    </>
   );
 }
 
