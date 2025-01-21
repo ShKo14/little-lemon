@@ -1,0 +1,16 @@
+.home-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .home-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .home-logo {
+    height: 100px;
+    display: block;
+    margin: 0 auto 20px; /* Center the logo */
+  }
+  

@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #f4a261;
+    padding: 10px;
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .navbar-logo {
+    height: 50px;
+    margin-right: 10px;
+  }
+  

@@ -1,0 +1,20 @@
+.reservation-form {
+    margin: 20px auto;
+    padding: 10px;
+    max-width: 400px;
+    border: 1px solid #ddd;
+  }
+  
+  .reservation-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .submit-btn {
+    background-color: #2a9d8f;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
